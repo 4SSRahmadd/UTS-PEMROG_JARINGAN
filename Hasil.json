@@ -1,0 +1,362 @@
+[
+  {
+    "title": null,
+    "rating": null,
+    "total ulasan": null,
+    "category": null,
+    "alamat": null,
+    "jam operasional": null,
+    "opsi layanan": null,
+    "link": null
+  },
+  {
+    "title": "Rumah Makan Pecel Kawi Hj Musilah Asli 1975",
+    "rating": "4,3",
+    "total ulasan": "(5.317)",
+    "category": "Restoran",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang, Pesan antar",
+    "link": "https://www.google.com/maps/place/Rumah+Makan+Pecel+Kawi+Hj+Musilah+Asli+1975/data=!4m7!3m6!1s0x2dd62827639c20fd:0xc5b6351c172eca87!8m2!3d-7.9757225!4d112.6200297!16s%2Fg%2F11d_7s2bn_!19sChIJ_SCcYyco1i0Rh8ouFxw1tsU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Warung Pecel Bu Susi Pojok Sempu",
+    "rating": "4,3",
+    "total ulasan": "(719)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Warung+Pecel+Bu+Susi+Pojok+Sempu/data=!4m7!3m6!1s0x2dd628036369dc39:0x7ea2c0b1d55b837!8m2!3d-7.9940878!4d112.625511!16s%2Fg%2F11b6_hw7nn!19sChIJOdxpYwMo1i0RN7hVHQss6gc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Mbak Pur",
+    "rating": "4,6",
+    "total ulasan": "(662)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Mbak+Pur/data=!4m7!3m6!1s0x2dd62803870c8fb7:0xe362b8242fe9e657!8m2!3d-7.99561!4d112.6259747!16s%2Fg%2F11cnb2fypt!19sChIJt48MhwMo1i0RV-bpLyS4YuM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Dan Rawon Glintung Bu Yatirah",
+    "rating": "4,4",
+    "total ulasan": "(1.895)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Dan+Rawon+Glintung+Bu+Yatirah/data=!4m7!3m6!1s0x2dd629c6db0b44cf:0x7ee1670de28de512!8m2!3d-7.9467091!4d112.640163!16s%2Fg%2F11b6gfkv5q!19sChIJz0QL28Yp1i0REuWN4g1n4X4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Panderman (Mustika)",
+    "rating": "4,5",
+    "total ulasan": "(846)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang, Tidak menyediakan layanan pengiriman",
+    "link": "https://www.google.com/maps/place/Pecel+Panderman+%28Mustika%29/data=!4m7!3m6!1s0x2e78829d21348a45:0x4f46ff20f504b488!8m2!3d-7.9733151!4d112.6171024!16s%2Fg%2F11bxfkc3rw!19sChIJRYo0IZ2CeC4RiLQE9SD_Rk8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Berkah",
+    "rating": "4,4",
+    "total ulasan": "(1.205)",
+    "category": "Sarapan",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Berkah/data=!4m7!3m6!1s0x2dd629e25cbe6fcd:0xec9d1dc814265d6!8m2!3d-7.9365777!4d112.6255213!16s%2Fg%2F1pzx5syds!19sChIJzW--XOIp1i0R1mVCgdzRyQ4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Pincuk Winongo",
+    "rating": "4,5",
+    "total ulasan": "(762)",
+    "category": "Restoran",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Pincuk+Winongo/data=!4m7!3m6!1s0x2dd62930ff3eaa01:0x122cad140b0e1489!8m2!3d-7.9732686!4d112.6203272!16s%2Fg%2F11fkqybwty!19sChIJAao-_zAp1i0RiRQOCxStLBI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "PECEL SAMBAL TUMPANG BU DJAROT DINOYO",
+    "rating": "4,7",
+    "total ulasan": "(955)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang, Antar tanpa bertemu",
+    "link": "https://www.google.com/maps/place/PECEL+SAMBAL+TUMPANG+BU+DJAROT+DINOYO/data=!4m7!3m6!1s0x2e78820d7f32175b:0x3222abd6e293f449!8m2!3d-7.9388834!4d112.6078227!16s%2Fg%2F11b75fcqyx!19sChIJWxcyfw2CeC4RSfST4tarIjI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Kane",
+    "rating": "4,6",
+    "total ulasan": "(1.293)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 07.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Kane/data=!4m7!3m6!1s0x2e788271a8736f49:0x205892cbe8693c2e!8m2!3d-7.9492731!4d112.6108332!16s%2Fg%2F11bw478zv4!19sChIJSW9zqHGCeC4RLjxp6MuSWCA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Warung Nasi Pecel Pak Mul",
+    "rating": "4,5",
+    "total ulasan": "(816)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Warung+Nasi+Pecel+Pak+Mul/data=!4m7!3m6!1s0x2dd6281b6d62e7d1:0xf79e2d1a093afd33!8m2!3d-7.9903422!4d112.6272342!16s%2Fg%2F1hm31vgqr!19sChIJ0edibRso1i0RM_06CRotnvc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "PECEL STASIUN MALANG KOTA",
+    "rating": "5,0",
+    "total ulasan": "(2)",
+    "category": "Sarapan",
+    "alamat": "Malang, Depan, Jl. Trunojoyo",
+    "jam operasional": "⋅ Buka Sab pukul 07.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/PECEL+STASIUN+MALANG+KOTA/data=!4m7!3m6!1s0x2dd6298093d20343:0x4df4ce156434cb24!8m2!3d-7.9779126!4d112.6360989!16s%2Fg%2F11j131z04g!19sChIJQwPSk4Ap1i0RJMs0ZBXO9E0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Pincuk Bu Siti",
+    "rating": "4,5",
+    "total ulasan": "(933)",
+    "category": "Sarapan",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang, Antar tanpa bertemu",
+    "link": "https://www.google.com/maps/place/Pecel+Pincuk+Bu+Siti/data=!4m7!3m6!1s0x2dd629e3dd669cb3:0xa3b640ce60fb0fa4!8m2!3d-7.9355375!4d112.6247488!16s%2Fg%2F11clht9m40!19sChIJs5xm3eMp1i0RpA_7YM5AtqM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Rawon Tumapel",
+    "rating": "4,8",
+    "total ulasan": "(113)",
+    "category": "Nasi",
+    "alamat": "Jl. Tumapel No.5",
+    "jam operasional": "⋅ Tutup pukul 00.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Rawon+Tumapel/data=!4m7!3m6!1s0x2dd629550fd3a1b9:0x15e3acc123afbc51!8m2!3d-7.9779958!4d112.6320594!16s%2Fg%2F11mqwy1nsp!19sChIJuaHTD1Up1i0RUbyvI8Gs4xU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Semeru",
+    "rating": "4,6",
+    "total ulasan": "(19)",
+    "category": "Restoran",
+    "alamat": "Jl. Bromo No.18-16",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Semeru/data=!4m7!3m6!1s0x2dd6290326b22075:0x99e4f55568602fda!8m2!3d-7.9765521!4d112.626764!16s%2Fg%2F11fm_8mq23!19sChIJdSCyJgMp1i0R2i9gaFX15Jk?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Sambal Tumpang Bu Yatik",
+    "rating": "4,7",
+    "total ulasan": "(523)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Sambal+Tumpang+Bu+Yatik/data=!4m7!3m6!1s0x2e788275e99fcd15:0x9d67c0299e544682!8m2!3d-7.9383552!4d112.6035933!16s%2Fg%2F11b6cqhydt!19sChIJFc2f6XWCeC4RgkZUninAZ50?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Warung Pecel SiGaya asli Madiun",
+    "rating": "4,5",
+    "total ulasan": "(587)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Warung+Pecel+SiGaya+asli+Madiun/data=!4m7!3m6!1s0x2e78826d79a572e7:0x20ff6cff8df2caba!8m2!3d-7.944832!4d112.60735!16s%2Fg%2F1hm2kn9pz!19sChIJ53KleW2CeC4Rusryjf9s_yA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Mbak Sri Klojen",
+    "rating": "4,1",
+    "total ulasan": "(14)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Mbak+Sri+Klojen/data=!4m7!3m6!1s0x2dd6283a0a4ede33:0x5947aa7947c025d5!8m2!3d-7.9726605!4d112.6369713!16s%2Fg%2F11hd1s_9w1!19sChIJM95OCjoo1i0R1SXAR3mqR1k?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Warung Pecel Sleko 'Asli Madiun'",
+    "rating": "4,5",
+    "total ulasan": "(1.435)",
+    "category": "Jawa Timur",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Warung+Pecel+Sleko+%27Asli+Madiun%27/data=!4m7!3m6!1s0x2e78821e9a29ddcf:0x97d5be7293f67c91!8m2!3d-7.925847!4d112.6013019!16s%2Fg%2F1hm5l27nk!19sChIJz90pmh6CeC4RkXz2k3K-1Zc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Sumbersari",
+    "rating": "4,6",
+    "total ulasan": "(33)",
+    "category": "Brunch",
+    "alamat": "",
+    "jam operasional": "⋅ Tutup pukul 00.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Sumbersari/data=!4m7!3m6!1s0x2e78827bf146b7ab:0x4aba96a7ca0fcb44!8m2!3d-7.9570708!4d112.612862!16s%2Fg%2F11b6br_hj2!19sChIJq7dG8XuCeC4RRMsPyqeWuko?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Blitar Mbok Djo",
+    "rating": "4,4",
+    "total ulasan": "(246)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Blitar+Mbok+Djo/data=!4m7!3m6!1s0x2dd628036b9f883b:0x7d82ecfe3d7e3391!8m2!3d-7.9938644!4d112.6245855!16s%2Fg%2F11b6_802zw!19sChIJO4ifawMo1i0RkTN-Pf7sgn0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Mbak Sri Klojen",
+    "rating": "4,1",
+    "total ulasan": "(14)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Mbak+Sri+Klojen/data=!4m7!3m6!1s0x2dd6283a0a4ede33:0x5947aa7947c025d5!8m2!3d-7.9726605!4d112.6369713!16s%2Fg%2F11hd1s_9w1!19sChIJM95OCjoo1i0R1SXAR3mqR1k?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Pincuk",
+    "rating": "4,8",
+    "total ulasan": "(45)",
+    "category": "Restoran",
+    "alamat": "Ruko, Jl. Bend. Sigura - Gura Barat Raya No, Jl. Sigura-gura II No.kav 1-2",
+    "jam operasional": "⋅ Buka Sab pukul 05.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Pincuk/data=!4m7!3m6!1s0x2e78834daae9e293:0xfe5d9a8c902645f7!8m2!3d-7.9580277!4d112.6098517!16s%2Fg%2F11gmyvnnt7!19sChIJk-Lpqk2DeC4R90UmkIyaXf4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Sego Pecel Cak Mail Malang",
+    "rating": "4,8",
+    "total ulasan": "(15)",
+    "category": "Sarapan",
+    "alamat": "Jl. Terusan Kawi No.4",
+    "jam operasional": "⋅ Buka Sab pukul 05.30",
+    "opsi layanan": "Makan di tempat, Ambil di tepi jalan",
+    "link": "https://www.google.com/maps/place/Sego+Pecel+Cak+Mail+Malang/data=!4m7!3m6!1s0x2e788340c5cfdcd3:0x5af73dfaf4bea198!8m2!3d-7.974062!4d112.6166475!16s%2Fg%2F11jzr_gl0b!19sChIJ09zPxUCDeC4RmKG-9Po991o?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Cahaya khas Nganjuk",
+    "rating": "4,8",
+    "total ulasan": "(46)",
+    "category": "Restoran",
+    "alamat": "Jl. Pulosari 1 Bl. P No.38",
+    "jam operasional": "⋅ Tutup pukul 21.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang, Pesan antar",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Cahaya+khas+Nganjuk/data=!4m7!3m6!1s0x2dd629402c72be33:0x8f092223dfaafef4!8m2!3d-7.9351286!4d112.6481254!16s%2Fg%2F11h_zb2sh4!19sChIJM75yLEAp1i0R9P6q3yMiCY8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Kremes Madiun",
+    "rating": "4,4",
+    "total ulasan": "(330)",
+    "category": "Restoran",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Kremes+Madiun/data=!4m7!3m6!1s0x2e78820996d8d751:0xcec0fd08c4058909!8m2!3d-7.9357309!4d112.6178539!16s%2Fg%2F11c20c92v3!19sChIJUdfYlgmCeC4RCYkFxAj9wM4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Mbak Inul",
+    "rating": "4,4",
+    "total ulasan": "(295)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Tutup pukul 01.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Mbak+Inul/data=!4m7!3m6!1s0x2dd6281b765becc1:0x2a3dc77a36b2af4d!8m2!3d-7.989703!4d112.626747!16s%2Fg%2F11fyypkdy6!19sChIJwexbdhso1i0RTa-yNnrHPSo?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Sarangan \"Dokter Pincoek\"",
+    "rating": "4,5",
+    "total ulasan": "(407)",
+    "category": "Rumah Makan",
+    "alamat": "",
+    "jam operasional": "⋅ Tutup pukul 21.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Sarangan+%22Dokter+Pincoek%22/data=!4m7!3m6!1s0x2dd62831af9d34eb:0x32e4269d9dc57014!8m2!3d-7.9618494!4d112.634604!16s%2Fg%2F11b73qdp5n!19sChIJ6zSdrzEo1i0RFHDFnZ0m5DI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Pincuk Hj.Lulut",
+    "rating": "4,6",
+    "total ulasan": "(7)",
+    "category": "Rumah Makan",
+    "alamat": "Jl. Sigura - Gura No.1a",
+    "jam operasional": "⋅ Tutup pukul 21.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Pincuk+Hj.Lulut/data=!4m7!3m6!1s0x2e7883698e060d91:0x9e514a7674aa8bf2!8m2!3d-7.957598!4d112.6066587!16s%2Fg%2F11l97kqp85!19sChIJkQ0GjmmDeC4R8ouqdHZKUZ4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Pincuk Madiun Bu Budi Asli",
+    "rating": "4,4",
+    "total ulasan": "(63)",
+    "category": "Restoran",
+    "alamat": null,
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Ambil di tepi jalan, Antar tanpa bertemu",
+    "link": "https://www.google.com/maps/place/Pecel+Pincuk+Madiun+Bu+Budi+Asli/data=!4m7!3m6!1s0x2dd629fc1085d9c5:0x3a51145d848651d2!8m2!3d-7.9794781!4d112.6567179!16s%2Fg%2F11hyfhmbg0!19sChIJxdmFEPwp1i0R0lGGhF0UUTo?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Winongo",
+    "rating": "2,5",
+    "total ulasan": "(10)",
+    "category": "Restoran",
+    "alamat": "Jl. Blimbing Indah Megah No.98",
+    "jam operasional": null,
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Winongo/data=!4m7!3m6!1s0x2dd629287404adf9:0xd29fb76dbaa8e7c0!8m2!3d-7.9405042!4d112.6606229!16s%2Fg%2F11hzpccrnk!19sChIJ-a0EdCgp1i0RwOeoum23n9I?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Enak",
+    "rating": null,
+    "total ulasan": null,
+    "category": "Restoran",
+    "alamat": "Jl. Panglima sudirman utara kbb No.6",
+    "jam operasional": "⋅ Buka Sen pukul 06.30",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Enak/data=!4m7!3m6!1s0x2dd629af31dce68b:0xd6280c4f2ae69d55!8m2!3d-7.9665606!4d112.6374487!16s%2Fg%2F11fsj2rbdf!19sChIJi-bcMa8p1i0RVZ3mKk8MKNY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Nasi Pecel Mbah Otig",
+    "rating": "4,6",
+    "total ulasan": "(36)",
+    "category": "Indonesia",
+    "alamat": "Jalan Hamid Rusdi Kav. 15, Bunulrejo, Blimbing",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Nasi+Pecel+Mbah+Otig/data=!4m7!3m6!1s0x2dd62847f104d8cf:0x163dd11bd54f3051!8m2!3d-7.9726087!4d112.6452529!16s%2Fg%2F11b6_b159j!19sChIJz9gE8Uco1i0RUTBP1RvRPRY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Ponorogo Dan Lontong Malang",
+    "rating": "3,9",
+    "total ulasan": "(18)",
+    "category": "Sarapan",
+    "alamat": "2JQX+WQ5, Jl. Sulfat",
+    "jam operasional": null,
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Pecel+Ponorogo+Dan+Lontong+Malang/data=!4m7!3m6!1s0x2dd629229890d285:0x9c60824e4053a528!8m2!3d-7.9602293!4d112.6494839!16s%2Fg%2F11qnqmh6vx!19sChIJhdKQmCIp1i0RKKVTQE6CYJw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Pecel Menteng Malang",
+    "rating": "4,8",
+    "total ulasan": "(20)",
+    "category": "Restoran",
+    "alamat": "Jl. Menteng",
+    "jam operasional": "⋅ Buka Sab pukul 06.00",
+    "opsi layanan": "Makan di tempat, Ambil di tepi jalan, Tidak menyediakan layanan pengiriman",
+    "link": "https://www.google.com/maps/place/Pecel+Menteng+Malang/data=!4m7!3m6!1s0x2dd628272abfebff:0x79f4dcaf0e9fdd15!8m2!3d-7.9741959!4d112.6139181!16s%2Fg%2F11bzt1jdtq!19sChIJ_-u_Kico1i0RFd2fDq_c9Hk?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "title": "Warung nasi pecel pincuk & tepo bu Is asli Madiun",
+    "rating": "4,5",
+    "total ulasan": "(127)",
+    "category": "Jawa",
+    "alamat": "",
+    "jam operasional": "⋅ Buka Sab pukul 05.00",
+    "opsi layanan": "Makan di tempat, Bawa pulang",
+    "link": "https://www.google.com/maps/place/Warung+nasi+pecel+pincuk+%26+tepo+bu+Is+asli+Madiun/data=!4m7!3m6!1s0x2e788210959c0813:0x9a7e54c9cb8bd5f5!8m2!3d-7.9335369!4d112.6035051!16s%2Fg%2F11b6ck2fhm!19sChIJEwiclRCCeC4R9dWLy8lUfpo?authuser=0&hl=id&rclk=1"
+  }
+]

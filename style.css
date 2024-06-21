@@ -1,0 +1,29 @@
+/* Styling container utama */
+.container {
+  width: 90%;
+  margin: 20px auto;
+  overflow-x: auto; /* Mengaktifkan scroll horizontal jika konten melebihi lebar */
+}
+
+/* Styling tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #007bff; /* Warna biru */
+  color: white;
+}
+
+/* Styling baris ganjil/genap */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
